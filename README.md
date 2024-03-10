@@ -1,4 +1,5 @@
 # Website-Entrance-Card
 
 
-![image](https://github.com/Siddhesh9000/Website-Entrance-Card/assets/98513953/f0009353-5e88-4028-955a-7f951aff65bb)
+![Screenshot 2024-03-10 153516](https://github.com/Siddhesh9000/Website-Entrance-Card/assets/98513953/5b1d670f-6bdc-4cf0-9476-acb76845f82e)
+
